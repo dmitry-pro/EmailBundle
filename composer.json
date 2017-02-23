@@ -12,10 +12,10 @@
     ],
 
     "require": {
-        "php":                          ">=5.3.3",
-        "symfony/framework-bundle":     "~2.2",
-        "symfony/swiftmailer-bundle":   "~2.2",
-        "zendframework/zend-mail":      "~2.1"
+        "php":                          ">=5.3.3|~7",
+        "symfony/framework-bundle":     "~2",
+        "symfony/swiftmailer-bundle":   "~2",
+        "zendframework/zend-mail":      "~2"
     },
 
     "autoload": {
