@@ -13,9 +13,9 @@
 
     "require": {
         "php":                          ">=5.3.3|~7",
-        "symfony/framework-bundle":     "~2",
-        "symfony/swiftmailer-bundle":   "~2",
-        "zendframework/zend-mail":      "~2"
+        "symfony/framework-bundle":     "~2.2|~3.0",
+        "symfony/swiftmailer-bundle":   "~2.2|~3.0",
+        "zendframework/zend-mail":      "~2.1|~3.0"
     },
 
     "autoload": {
